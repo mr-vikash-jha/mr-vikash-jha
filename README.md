@@ -7,6 +7,6 @@ Vikash Jha Here !
 💪🏼 Future Goals: Learn more technologies
 ⚡ Fun fact: I love to PLay Cricket and Badminton.
 Things that I'm currently working on 👨‍💻
-=>Reactnative React Native
+=>Reactnative ReactJS
 =>Tsx.
 =>Postman.
